@@ -29,7 +29,7 @@
 3. Установка Git - https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-Git
 4. Создаем проект у себя на ПК:
 	1.  Создание пустого репозитория с названием "croc-frontend-study-course-{yourName}" на GitHub
-      https://github.com/MaiiaPo/croc-frontend-study-course/raw/main/documentation/images/readme/create-repository.jpg
+      https://github.com/MaiiaPo/croc-frontend-study-course/raw/main/images/readme-create-repository.jpg
 	2.  Клонирование репозитория курса в папку на ПК: команда в терминале 'git clone https://github.com/MaiiaPo/croc-frontend-study-course.git'
 	3.  Открываем папку с клонированным репозиторием в VS Code.
 	4. В терминале выполняем команду git remote -v для просмотра источника (должен быть https://github.com/MaiiaPo/croc-frontend-study-course.git)
